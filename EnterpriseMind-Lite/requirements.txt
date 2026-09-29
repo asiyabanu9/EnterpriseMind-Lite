@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+psycopg2-binary
+requests
+neo4j
+google-genai
+langgraph
+pydantic
